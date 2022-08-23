@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;1,200&display=swap");
+
+.banner-img {
+  background: url("../image/background4.jpg");
+  background-size: cover;
+  max-width: 100%;
+  height: 600px;
+}
+
+.nav-image {
+  background: url("../image/background4.jpg");
+  background-size: cover;
+  max-width: 100%;
+  height: 150px;
+}
+
+.header-title {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: #fff;
+  margin: 20px;
+}
+
+.header-title p {
+  font-size: medium;
+}
+
+.cards {
+  margin-top: 50px;
+}
+
+.about p {
+  padding: 20px;
+}
+
+.specials {
+  margin-top: 60px;
+}
+
+.send {
+  width: 100%;
+}
